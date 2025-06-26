@@ -17,11 +17,11 @@ Explain how to use the lip-syncing model. Provide step-by-step instructions:-
 
 
 
-##Inputs
+## Inputs
 
 These are the inputs of the audio and video that I chose for this  model
 - `--video`: [Input_video](https://drive.google.com/file/d/1dRZdSm9hzx_SXfHmkHdkGx3FXx5LBirR/view)
 - `--audio`: [Input_audio](https://drive.google.com/file/d/1CrwhSkCSyLNCQTixXju7rRA-41Bf0fyb/view?usp=sharing)
 
-##Ouput
+## Ouput
 - `--output`: [Output_video](https://drive.google.com/file/d/1Ov3OUfx5VMeEYu25uvGOSWPOwth-EEAT/view?usp=sharing)
